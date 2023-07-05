@@ -1,0 +1,5 @@
+INFO:root:All arrays must be of the same length
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2023 23:29:39] "POST /perform_scrapping HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2023 23:36:28] "GET / HTTP/1.1" 200 -
+INFO:root:All arrays must be of the same length
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2023 23:36:59] "POST /perform_scrapping HTTP/1.1" 200 -
